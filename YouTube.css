@@ -1,0 +1,65 @@
+.search-area{
+    width:250px;
+
+    display:block;
+}
+.img{
+    width:85%;
+    display:block;
+    border-radius:15px;
+    margin-top:10px;
+}
+.video{
+   
+}
+.description-1{
+    font-size:16px;
+}
+.description-2{
+    color:rgb(107, 107, 107);
+    
+    font-size:14px;
+}
+.description-3{
+    color:rgb(107, 107, 107);
+    
+    font-size:14px;
+}
+p{
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Roboto,Arial,sans-serif;
+}
+.channel-picture {
+    
+}
+.profile-picture{
+    width:36px;
+    border-radius: 25px;
+}
+.general-description{
+
+    
+}
+.video-preview{
+    margin-top:10px;
+    display:grid;
+    grid-template-columns: 44px 1fr;
+}
+.image{
+    display:inline-block;
+}
+.video-grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap: 20px;
+    row-gap: 40px;
+}
+
+.header{
+    display: flex;
+    flex-direction:row;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}

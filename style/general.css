@@ -1,0 +1,66 @@
+p{
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Roboto,Arial,sans-serif;
+}
+
+body{
+    margin: 0;
+    padding-top: 83px;
+    background-color: rgb(250, 247, 247);
+    padding-left: 120px;
+}
+.side-bar{
+    position:fixed;
+    top:70px;
+    bottom:0;
+    left:0;
+    width:100px;
+    background-color: white;
+    padding-top:23px;
+}
+.side-bar-item{
+    height:70px;
+}
+.side-bar-item:hover{
+    background-color: rgb(247, 242, 242);
+    transition:0.3s;
+    border-radius: 30px;
+}
+.shorts{
+    height:30px;
+    margin-left:27px;
+    padding-top:7px;
+}
+.home{
+    height:23px;
+    margin-left:32px;
+    padding-top:10px;
+}
+.side-bar-desc{
+    font-size:11px;
+    font-family: Roboto,Arial;
+    margin-left:28px;
+}
+.side-bar-desc1{
+    font-size:11px;
+    font-family: Roboto,Arial;
+    margin-left: 14px;
+}
+.side-bar-desc2{
+    font-size:11px;
+    font-family: Roboto,Arial;
+    margin-left:32px;
+    margin-top:-4px;
+}
+.subscriptions{
+    margin-left:19px;
+    height:30px;
+    padding-top:5px;
+}
+.you{
+    height:40px;
+    margin-left: 25px;
+    width:43px;
+    padding-top: 4px;
+}
